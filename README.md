@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandozrzr&label=Profile%20views&color=0e75b6&style=flat" alt="fernandozrzr" /> </p>
 
-- 🔭 I’m currently working on **school projects**
+- 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **| Node | Express | MongoDB | Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fernandozrzr?tab=repositories](https://github.com/fernandozrzr?tab=repositories)
 
