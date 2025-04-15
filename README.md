@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **llm.fernando@yahoo.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1SW2zasmBuNlM3Td8fAPcJ0J8oA-almn1/view?usp=sharin)](https://drive.google.com/file/d/1Yybowwk81SGYJAEK3U0uoTahWaVLfVC_/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Yybowwk81SGYJAEK3U0uoTahWaVLfVC_/view?usp=sharing)
 
 - ⚡ Fun fact **Love trying out new food recipes**
 
