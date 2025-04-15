@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandozrzr&label=Profile%20views&color=0e75b6&style=flat" alt="fernandozrzr" /> </p>
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently studying Computer Engineering at NTU!
 
-- 🌱 I’m currently learning **| Node | Express | MongoDB | Flutter**
+- 🌱 I’m currently learning **| Node | Express | MongoDB | React
 
 - 👨‍💻 All of my projects are available at [https://github.com/fernandozrzr?tab=repositories](https://github.com/fernandozrzr?tab=repositories)
 
 - 📫 How to reach me **llm.fernando@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SW2zasmBuNlM3Td8fAPcJ0J8oA-almn1/view?usp=sharing](https://drive.google.com/file/d/1SW2zasmBuNlM3Td8fAPcJ0J8oA-almn1/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1SW2zasmBuNlM3Td8fAPcJ0J8oA-almn1/view?usp=sharing](https://drive.google.com/file/d/1SW2zasmBuNlM3Td8fAPcJ0J8oA-almn1/view?usp=sharin)](https://drive.google.com/file/d/1Yybowwk81SGYJAEK3U0uoTahWaVLfVC_/view?usp=drive_link)
 
 - ⚡ Fun fact **Love trying out new food recipes**
 
